@@ -1,0 +1,273 @@
+[
+  {
+    "id": 1,
+    "query": "Theo quy định của Luật Bảo vệ dữ liệu cá nhân, việc xử lý dữ liệu cá nhân của trẻ em từ đủ 07 tuổi trở lên nhằm công bố thông tin bí mật đời tư bắt buộc phải có điều kiện gì?",
+    "gold_answer": "Việc xử lý này phải có sự đồng ý của trẻ em đó và của người đại diện theo pháp luật (Căn cứ khoản 2 Điều 24).",
+    "filter": {
+      "year": 2025,
+      "category": "luat"
+    },
+    "top_3": [
+      {
+        "rank": 1,
+        "score": 0.8811,
+        "content_preview": "#### Điều 24. Bảo vệ dữ liệu cá nhân của trẻ em, người bị mất hoặc hạn chế năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi\n1. Bảo vệ dữ liệu cá nhân của trẻ em, người bị mấ",
+        "metadata": {
+          "doc_id": "91-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "91_BVDLCN.md"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.84,
+        "content_preview": "a) Người đã đồng ý quy định tại khoản 2 Điều này rút lại sự đồng ý cho phép xử lý dữ liệu cá nhân của trẻ em, người bị mất hoặc hạn chế năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm ",
+        "metadata": {
+          "doc_id": "91-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "91_BVDLCN.md"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.8384,
+        "content_preview": "1. Dữ liệu cá nhân chỉ được công khai với mục đích cụ thể. Phạm vi công khai, loại dữ liệu cá nhân được công khai phải phù hợp với mục đích công khai. Việc công khai dữ liệu cá nhân không được xâm phạ",
+        "metadata": {
+          "doc_id": "91-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "91_BVDLCN.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "query": "Tỷ lệ trích tối thiểu từ nguồn thu học phí của các cơ sở giáo dục đại học để phục vụ hoạt động khoa học, công nghệ và đổi mới sáng tạo được quy định như thế nào?",
+    "gold_answer": "Cơ sở giáo dục đại học thực hiện trích từ nguồn thu học phí với tỷ lệ tối thiểu 8% đối với đại học và 5% đối với cơ sở giáo dục đại học khác.",
+    "filter": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "score": 0.9187,
+        "content_preview": "5. Cơ sở giáo dục đại học trích từ nguồn thu học phí, với tỷ lệ tối thiểu 8% đối với đại học và 5% đối với cơ sở giáo dục đại học khác, để phục vụ hoạt động khoa học, công nghệ và đổi mới sáng tạo. Nộ",
+        "metadata": {
+          "doc_id": "125-2026-ND-CP",
+          "source": "Chính phủ",
+          "year": 2026,
+          "category": "nghi-dinh",
+          "file": "125_NDKH.md"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.8731,
+        "content_preview": "b) Được áp dụng cơ chế chấp nhận rủi ro trong đầu tư, hỗ trợ hoạt động khoa học, công nghệ và đổi mới sáng tạo theo quy định quản lý quỹ của cơ sở giáo dục đại học và quy định của pháp luật có liên qu",
+        "metadata": {
+          "doc_id": "125-2026-ND-CP",
+          "source": "Chính phủ",
+          "year": 2026,
+          "category": "nghi-dinh",
+          "file": "125_NDKH.md"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.8624,
+        "content_preview": "7. Cơ sở giáo dục đại học được giữ lại phần lợi nhuận từ thương mại hóa, chuyển nhượng hoặc được phân chia tương ứng với tỷ lệ góp vốn bằng kết quả nghiên cứu khoa học, công nghệ và đổi mới sáng tạo h",
+        "metadata": {
+          "doc_id": "125-2026-ND-CP",
+          "source": "Chính phủ",
+          "year": 2026,
+          "category": "nghi-dinh",
+          "file": "125_NDKH.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "query": "Công ty tôi đang có kế hoạch đầu tư một nhà máy sản xuất sản phẩm nằm trong Danh mục sản phẩm công nghệ chiến lược. Theo quy định mới nhất, dự án này sẽ được hưởng ưu đãi đặc biệt gì về đầu tư?",
+    "gold_answer": "Dự án được hưởng chính sách ưu đãi, hỗ trợ đầu tư đặc biệt theo quy định của pháp luật về đầu tư. Ngoài ra, còn được hưởng các mức ưu đãi, hỗ trợ cao nhất về thuế, đất đai và các chính sách khác.",
+    "filter": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "score": 0.8788,
+        "content_preview": "Dự án đầu tư sản xuất sản phẩm công nghệ chiến lược thuộc Danh mục sản phẩm công nghệ chiến lược được hưởng chính sách ưu đãi, hỗ trợ đầu tư đặc biệt theo quy định của pháp luật về đầu tư;\nb) Doanh ng",
+        "metadata": {
+          "doc_id": "133-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "133_CNC.md"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.8469,
+        "content_preview": "3. Dự án sản xuất sản phẩm công nghệ số trọng điểm; dự án nghiên cứu và phát triển, thiết kế, sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn; dự án xây dựng trung tâm dữ liệu trí tuệ nhân tạo có q",
+        "metadata": {
+          "doc_id": "71-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "71_CNCNS.md"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.8462,
+        "content_preview": "3. Hoạt động ứng dụng công nghệ cao, công nghệ chiến lược thuộc Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục công nghệ chiến lược quy định tại Điều 5 của Luật này bao gồm:\na) Sử d",
+        "metadata": {
+          "doc_id": "133-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "133_CNC.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "query": "Doanh nghiệp khởi nghiệp sáng tạo trong lĩnh vực trí tuệ nhân tạo được Nhà nước hỗ trợ những nội dung gì?",
+    "gold_answer": "Được hỗ trợ chi phí đánh giá sự phù hợp, hạ tầng tính toán (LLM, dữ liệu dùng chung), tư vấn kỹ thuật kiểm thử rủi ro, và ưu tiên hỗ trợ từ Quỹ phát triển trí tuệ nhân tạo quốc gia.",
+    "filter": {
+      "category": "luat"
+    },
+    "top_3": [
+      {
+        "rank": 1,
+        "score": 0.8785,
+        "content_preview": "3. Doanh nghiệp có năng lực nghiên cứu, phát triển và đổi mới sáng tạo trong lĩnh vực trí tuệ nhân tạo được ưu tiên tham gia nhiệm vụ trong chương trình khoa học, công nghệ và đổi mới sáng tạo quốc gi",
+        "metadata": {
+          "doc_id": "134-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "134_TTNT.md"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.8752,
+        "content_preview": "6. Nhà nước khuyến khích hợp tác giữa doanh nghiệp, viện nghiên cứu, trường đại học và trung tâm đổi mới sáng tạo nhằm phát triển công nghệ trí tuệ nhân tạo, thương mại hóa kết quả nghiên cứu và mở rộ",
+        "metadata": {
+          "doc_id": "134-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "134_TTNT.md"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.8667,
+        "content_preview": "4. Chính phủ quy định chi tiết tiêu chí, trình tự, thủ tục công nhận, cơ chế hoạt động của cụm liên kết trí tuệ nhân tạo và chính sách ưu đãi tại khoản 3 Điều này.\n#### Điều 25. Hỗ trợ doanh nghiệp tr",
+        "metadata": {
+          "doc_id": "134-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "134_TTNT.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "query": "Khi tiến hành hoạt động phát thanh và truyền hình trên môi trường mạng, các tổ chức, cá nhân bắt buộc phải tuân thủ những quy định của các loại pháp luật nào?",
+    "gold_answer": "Phải thực hiện quy định của: 1. Pháp luật về viễn thông; 2. Pháp luật về báo chí; 3. Các quy định của Luật Công nghệ thông tin.",
+    "filter": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "score": 0.8274,
+        "content_preview": "2. Tổ chức, cá nhân tiến hành hoạt động văn hóa, báo chí trên môi trường mạng phải tuân thủ quy định của Luật này và các quy định của pháp luật về báo chí, văn hóa - thông tin.\n3. Tổ chức, cá nhân đượ",
+        "metadata": {
+          "doc_id": "65-2006-QH11",
+          "source": "Quốc hội",
+          "year": 2006,
+          "category": "luat",
+          "file": "65_CNTT.md"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.8133,
+        "content_preview": "1. Tổ chức, cá nhân thu thập, xử lý và sử dụng thông tin cá nhân của người khác trên môi trường mạng phải được người đó đồng ý, trừ trường hợp pháp luật có quy định khác.\n2. Tổ chức, cá nhân thu thập,",
+        "metadata": {
+          "doc_id": "65-2006-QH11",
+          "source": "Quốc hội",
+          "year": 2006,
+          "category": "luat",
+          "file": "65_CNTT.md"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.8067,
+        "content_preview": "3. Xâm phạm quyền sở hữu trí tuệ trong hoạt động công nghệ thông tin; sản xuất, lưu hành sản phẩm công nghệ thông tin trái pháp luật; giả mạo trang thông tin điện tử của tổ chức, cá nhân khác; tạo đườ",
+        "metadata": {
+          "doc_id": "65-2006-QH11",
+          "source": "Quốc hội",
+          "year": 2006,
+          "category": "luat",
+          "file": "65_CNTT.md"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "query": "Theo Luật Công nghiệp công nghệ số, một công ty công nghệ nước ngoài cung cấp dịch vụ quản lý dữ liệu số phục vụ riêng cho hoạt động cơ yếu bảo vệ bí mật nhà nước tại Việt Nam thì có thuộc phạm vi điều chỉnh không?",
+    "gold_answer": "Công ty công nghệ nước ngoài cung cấp dịch vụ trên không thuộc phạm vi điều chỉnh đối với hoạt động cụ thể phục vụ cơ yếu đó.",
+    "filter": {
+      "category": "luat"
+    },
+    "top_3": [
+      {
+        "rank": 1,
+        "score": 0.8454,
+        "content_preview": "#### Điều 1. Phạm vi điều chỉnh\n1. Luật này quy định về phát triển công nghiệp công nghệ số, công nghiệp bán dẫn, trí tuệ nhân tạo, tài sản số, quyền và trách nhiệm của cơ quan, tổ chức, cá nhân có li",
+        "metadata": {
+          "doc_id": "71-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "71_CNCNS.md"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.8357,
+        "content_preview": "#### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Luật này quy định về dữ liệu cá nhân, bảo vệ dữ liệu cá nhân và quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.\n2. Luật",
+        "metadata": {
+          "doc_id": "91-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "91_BVDLCN.md"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.8287,
+        "content_preview": "#### Điều 26. Quản lý, thúc đẩy phát triển dữ liệu số trong hoạt động công nghiệp công nghệ số\n1. Nhà nước có chính sách quản lý, thúc đẩy phát triển dữ liệu số trong hoạt động công nghiệp công nghệ s",
+        "metadata": {
+          "doc_id": "71-2025-QH15",
+          "source": "Quốc hội",
+          "year": 2025,
+          "category": "luat",
+          "file": "71_CNCNS.md"
+        }
+      }
+    ]
+  }
+]
